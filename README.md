@@ -9,6 +9,12 @@
   npm install
 ```
 
+### Run project
+
+```bash
+  npm run start
+```
+
 ### Add .env file with weahter API and DB credentials
 
 ### Run migrations script for create db structure
