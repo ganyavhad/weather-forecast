@@ -18,3 +18,6 @@
 ```
 ### Refer OpenWeather API for more details
 [Open Weather](https://openweathermap.org/)
+
+### Swagger URL
+[http://localhost:3000/api](http://localhost:3000/api)
